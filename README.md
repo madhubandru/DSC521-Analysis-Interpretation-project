@@ -1,16 +1,8 @@
 ### Team members:
-    1. Name: Sudharshan Rao B
-       Email ID: sb4267@drexel.edu
-       University ID: 14394041
-    2. Name : Madhu Bandru
-       Email ID: mb4236@drexel.edu
-       University ID: 14399120
+    1. Name: Madhu Bandru
+    2. Name: Sudharshan Rao B
     3. Name: Spandana Bendi
-       Email ID: sb4262@drexel.edu
-       University ID: 14395649
     4. Name : Divya Lakshmi Narayana
-       Email ID: mb4236@drexel.edu
-       University ID: 14394265
 
 ## INTRODUCTION
 
